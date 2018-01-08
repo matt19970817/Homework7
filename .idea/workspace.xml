@@ -35,22 +35,22 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/goroshigeno/lab10/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="67" selection-end-column="21" />
+              <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
               <folding>
-                <element signature="e#4417#5731#0" expanded="true" />
-                <element signature="e#5730#5731#0" expanded="true" />
-                <element signature="e#5771#7560#0" expanded="true" />
-                <element signature="e#7559#7560#0" expanded="true" />
-                <element signature="e#7601#8561#0" expanded="true" />
-                <element signature="e#8560#8561#0" expanded="true" />
-                <element signature="e#8601#9555#0" expanded="true" />
-                <element signature="e#9554#9555#0" expanded="true" />
-                <element signature="e#9602#10917#0" expanded="true" />
-                <element signature="e#10916#10917#0" expanded="true" />
-                <element signature="e#10969#15311#0" expanded="true" />
-                <element signature="e#15310#15311#0" expanded="true" />
-                <element signature="e#15594#16421#0" expanded="true" />
-                <element signature="e#16420#16421#0" expanded="true" />
+                <element signature="e#4334#5648#0" expanded="true" />
+                <element signature="e#5647#5648#0" expanded="true" />
+                <element signature="e#5688#7477#0" expanded="true" />
+                <element signature="e#7476#7477#0" expanded="true" />
+                <element signature="e#7518#8478#0" expanded="true" />
+                <element signature="e#8477#8478#0" expanded="true" />
+                <element signature="e#8518#9472#0" expanded="true" />
+                <element signature="e#9471#9472#0" expanded="true" />
+                <element signature="e#9519#10834#0" expanded="true" />
+                <element signature="e#10833#10834#0" expanded="true" />
+                <element signature="e#10886#15228#0" expanded="true" />
+                <element signature="e#15227#15228#0" expanded="true" />
+                <element signature="e#15511#16338#0" expanded="true" />
+                <element signature="e#16337#16338#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2037,7 +2037,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515423512287" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515423562574" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2084,7 +2084,7 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515423512287" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515423562574" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2245,7 +2245,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515423512290" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515423562576" />
       </method>
     </configuration>
     <list size="1">
@@ -2333,20 +2333,20 @@
         <state relative-caret-position="1365">
           <caret line="141" column="16" lean-forward="false" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="16" />
           <folding>
-            <element signature="e#4417#5731#0" expanded="true" />
-            <element signature="e#5730#5731#0" expanded="true" />
-            <element signature="e#5771#7560#0" expanded="true" />
-            <element signature="e#7559#7560#0" expanded="true" />
-            <element signature="e#7601#8561#0" expanded="true" />
-            <element signature="e#8560#8561#0" expanded="true" />
-            <element signature="e#8601#9555#0" expanded="true" />
-            <element signature="e#9554#9555#0" expanded="true" />
-            <element signature="e#9602#10917#0" expanded="true" />
-            <element signature="e#10916#10917#0" expanded="true" />
-            <element signature="e#10969#15311#0" expanded="true" />
-            <element signature="e#15310#15311#0" expanded="true" />
-            <element signature="e#15594#16421#0" expanded="true" />
-            <element signature="e#16420#16421#0" expanded="true" />
+            <element signature="e#4334#5648#0" expanded="true" />
+            <element signature="e#5647#5648#0" expanded="true" />
+            <element signature="e#5688#7477#0" expanded="true" />
+            <element signature="e#7476#7477#0" expanded="true" />
+            <element signature="e#7518#8478#0" expanded="true" />
+            <element signature="e#8477#8478#0" expanded="true" />
+            <element signature="e#8518#9472#0" expanded="true" />
+            <element signature="e#9471#9472#0" expanded="true" />
+            <element signature="e#9519#10834#0" expanded="true" />
+            <element signature="e#10833#10834#0" expanded="true" />
+            <element signature="e#10886#15228#0" expanded="true" />
+            <element signature="e#15227#15228#0" expanded="true" />
+            <element signature="e#15511#16338#0" expanded="true" />
+            <element signature="e#16337#16338#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2434,20 +2434,20 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4417#5731#0" expanded="true" />
-            <element signature="e#5730#5731#0" expanded="true" />
-            <element signature="e#5771#7560#0" expanded="true" />
-            <element signature="e#7559#7560#0" expanded="true" />
-            <element signature="e#7601#8561#0" expanded="true" />
-            <element signature="e#8560#8561#0" expanded="true" />
-            <element signature="e#8601#9555#0" expanded="true" />
-            <element signature="e#9554#9555#0" expanded="true" />
-            <element signature="e#9602#10917#0" expanded="true" />
-            <element signature="e#10916#10917#0" expanded="true" />
-            <element signature="e#10969#15311#0" expanded="true" />
-            <element signature="e#15310#15311#0" expanded="true" />
-            <element signature="e#15594#16421#0" expanded="true" />
-            <element signature="e#16420#16421#0" expanded="true" />
+            <element signature="e#4334#5648#0" expanded="true" />
+            <element signature="e#5647#5648#0" expanded="true" />
+            <element signature="e#5688#7477#0" expanded="true" />
+            <element signature="e#7476#7477#0" expanded="true" />
+            <element signature="e#7518#8478#0" expanded="true" />
+            <element signature="e#8477#8478#0" expanded="true" />
+            <element signature="e#8518#9472#0" expanded="true" />
+            <element signature="e#9471#9472#0" expanded="true" />
+            <element signature="e#9519#10834#0" expanded="true" />
+            <element signature="e#10833#10834#0" expanded="true" />
+            <element signature="e#10886#15228#0" expanded="true" />
+            <element signature="e#15227#15228#0" expanded="true" />
+            <element signature="e#15511#16338#0" expanded="true" />
+            <element signature="e#16337#16338#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2535,20 +2535,20 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4417#5731#0" expanded="true" />
-            <element signature="e#5730#5731#0" expanded="true" />
-            <element signature="e#5771#7560#0" expanded="true" />
-            <element signature="e#7559#7560#0" expanded="true" />
-            <element signature="e#7601#8561#0" expanded="true" />
-            <element signature="e#8560#8561#0" expanded="true" />
-            <element signature="e#8601#9555#0" expanded="true" />
-            <element signature="e#9554#9555#0" expanded="true" />
-            <element signature="e#9602#10917#0" expanded="true" />
-            <element signature="e#10916#10917#0" expanded="true" />
-            <element signature="e#10969#15311#0" expanded="true" />
-            <element signature="e#15310#15311#0" expanded="true" />
-            <element signature="e#15594#16421#0" expanded="true" />
-            <element signature="e#16420#16421#0" expanded="true" />
+            <element signature="e#4334#5648#0" expanded="true" />
+            <element signature="e#5647#5648#0" expanded="true" />
+            <element signature="e#5688#7477#0" expanded="true" />
+            <element signature="e#7476#7477#0" expanded="true" />
+            <element signature="e#7518#8478#0" expanded="true" />
+            <element signature="e#8477#8478#0" expanded="true" />
+            <element signature="e#8518#9472#0" expanded="true" />
+            <element signature="e#9471#9472#0" expanded="true" />
+            <element signature="e#9519#10834#0" expanded="true" />
+            <element signature="e#10833#10834#0" expanded="true" />
+            <element signature="e#10886#15228#0" expanded="true" />
+            <element signature="e#15227#15228#0" expanded="true" />
+            <element signature="e#15511#16338#0" expanded="true" />
+            <element signature="e#16337#16338#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2726,22 +2726,22 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/goroshigeno/lab10/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="67" selection-end-column="21" />
+          <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
           <folding>
-            <element signature="e#4417#5731#0" expanded="true" />
-            <element signature="e#5730#5731#0" expanded="true" />
-            <element signature="e#5771#7560#0" expanded="true" />
-            <element signature="e#7559#7560#0" expanded="true" />
-            <element signature="e#7601#8561#0" expanded="true" />
-            <element signature="e#8560#8561#0" expanded="true" />
-            <element signature="e#8601#9555#0" expanded="true" />
-            <element signature="e#9554#9555#0" expanded="true" />
-            <element signature="e#9602#10917#0" expanded="true" />
-            <element signature="e#10916#10917#0" expanded="true" />
-            <element signature="e#10969#15311#0" expanded="true" />
-            <element signature="e#15310#15311#0" expanded="true" />
-            <element signature="e#15594#16421#0" expanded="true" />
-            <element signature="e#16420#16421#0" expanded="true" />
+            <element signature="e#4334#5648#0" expanded="true" />
+            <element signature="e#5647#5648#0" expanded="true" />
+            <element signature="e#5688#7477#0" expanded="true" />
+            <element signature="e#7476#7477#0" expanded="true" />
+            <element signature="e#7518#8478#0" expanded="true" />
+            <element signature="e#8477#8478#0" expanded="true" />
+            <element signature="e#8518#9472#0" expanded="true" />
+            <element signature="e#9471#9472#0" expanded="true" />
+            <element signature="e#9519#10834#0" expanded="true" />
+            <element signature="e#10833#10834#0" expanded="true" />
+            <element signature="e#10886#15228#0" expanded="true" />
+            <element signature="e#15227#15228#0" expanded="true" />
+            <element signature="e#15511#16338#0" expanded="true" />
+            <element signature="e#16337#16338#0" expanded="true" />
           </folding>
         </state>
       </provider>
