@@ -62,10 +62,7 @@ public class MainActivity extends AppCompatActivity {
     List Search_lang ;
     List Search_long ;
 
-    int a = 12312312;
-    int a = 12312312;
-    int a = 12312312;
-    int a = 12312312;
+    
     Marker[] MarkerAll ;
     Marker[] MarkerCar = new Marker[999];
     Marker[] MarkerBike = new Marker[999];
