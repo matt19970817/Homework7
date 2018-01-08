@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\9dd924b30d9698d162363683dda81759a62d6308\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_4a63c6a8ed0cc5b0c2ad57f8e61e35fd5f83cfaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\8a08bed12f297955f4ed43de9535b2593ef39665\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_3984c6408bc1aa302758681e32b993410e858b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\e6b76d71dfbed874630ffe1a1c3b9d4b84832a97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_c622ef9ed7c1a6087505f9799a477d663ce59c81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\0532b7e4afbe9f40d2e5aba4d1903af1cd5ef3fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_6682f91a81b084a7639c309c4070d8becbb505ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\e5ee5083a54ca949de5ae68f6c4936e1d87e838c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_d01200837a1e94de33e65ce5fef74d43d858f6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\8392346d00bfff882c6219728398c5a01b35e671\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_6b047fab48b6b3d025e2c24e33fd0aa0a346fb46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\2b2af0ea503dd7a9d9813e4ea195bdabbee1b215\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_7131c88aa29664919a365367326bd0baa972c322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\2b0e1d0490819037de7d62232fddd90982ec9df5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_b81cf682e25883ad953aa414642e7c398ca9b4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\600dc9b9fec976be7ff84dcf6feef240646c25d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_655151168c76869e904931c7147d0332574a2301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\37ec45328d5a61d63532ea2ff0c1bf77464c4c84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_5cdd20c5cf33093d92db0f5adcf49da2fc59e271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\f97e92eef832354f5b367fddb19f352731ffd044\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_7ce492ddddf88e2d71c1da735cc4fc1a3dcc2e88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\8b9a23f488c9228f20c4c47cb2f870d62b0e9155\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_f14ee5ed9dc58c6ee35a5701aad714d1d3705aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\ae047dfec6678d46ee0b82e553c0b4c5e49dd1f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_9c2ffbbcddf40201e89cf0b761da06208438fc32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matt1\.android\build-cache\bb5a1c1983af2e02efdaa288a1814028e049b3c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\matt1\AndroidStudioProjects\Lab10-master\Lab10-master\app\build\intermediates\pre-dexed\debug\classes_e64ef431a1937922ff2394c1791c06aaa2a3e8c4.jar" />
+    </item>
+
+</items>
